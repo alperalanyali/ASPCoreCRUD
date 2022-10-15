@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPCoreCRUD", "ASPCoreCRUD\ASPCoreCRUD.csproj", "{9C8CC474-6B55-491A-806A-A8E5985FAF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8CC474-6B55-491A-806A-A8E5985FAF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8CC474-6B55-491A-806A-A8E5985FAF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8CC474-6B55-491A-806A-A8E5985FAF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8CC474-6B55-491A-806A-A8E5985FAF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
